@@ -1,8 +1,9 @@
 # 👨‍💻 Fabrízio Silva Matias
 
-Me chamo **Fabrízio Silva Matias**, tenho 18 anos e sou de Brasília - Distrito Federal.  
-Concluí o ensino médio no Centro Educacional 310 de Santa Maria, com o curso técnico em Desenvolvimento de Sistemas.  
-Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na UNICEPLAC.  
+Fabrízio Silva Matias | 18 anos | Brasília - DF  
+Estudante de Análise e Desenvolvimento de Sistemas na UNICEPLAC.  
+Técnico em Desenvolvimento de Sistemas pelo Centro de Educação Profissional - Escola Técnica de Santa Maria, Distrito Federal.  
+Foco em desenvolvimento de software com ênfase em soluções práticas e eficientes.  
 
 <!-- contatos: apenas emojis clicáveis -->
 <p align="left">
@@ -23,6 +24,7 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na UNICEPL
 <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
 <img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img align="left" alt="MySQL" title="MySQL / Banco de Dados SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 <br/><br/>
 
 ---
@@ -43,6 +45,4 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na UNICEPL
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabrizio11466&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=10" 
   />
-</p>
-
 </p>
